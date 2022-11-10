@@ -1,3 +1,3 @@
 # LEARNING HTML
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
->Status: Developing... 🚧
+![html-5 (2)](https://user-images.githubusercontent.com/113046021/200994662-4b27a693-f652-42f3-9316-413aed15c223.png)
+> Status: Developing... 🚧
